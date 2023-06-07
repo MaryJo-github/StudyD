@@ -28,24 +28,19 @@
   
 - 스터디가 끝난 뒤, 본인의 코드와 배운 점 및 느낀 점은 일요일 자정 전까지 Github에 올린다.
 
-  - 디렉토리 구조 참고
-
-    <img src="https://user-images.githubusercontent.com/74762699/236599245-9b1a590f-da6f-4f94-9840-329bc4715f51.png" width="500" height="500"/>
-
-
 
 <br/>
 
 ## 타임 라인
 
-[[week01] Optional]()
+[[week01] Optional](https://github.com/MaryJo-github/StudyD/wiki/%5Bweek01%5D-Optional)
 
-[[week02] Type]()
+[[week02] Type](https://github.com/MaryJo-github/StudyD/wiki/%5Bweek02%5D-Type)
 
-[[week03] MVC, NotificationCenter]()
+[[week03] MVC, NotificationCenter](https://github.com/MaryJo-github/StudyD/wiki/%5Bweek03%5D-MVC,-NotificationCenter)
 
-[[week04] View State Method]()
+[[week04] View State Method](https://github.com/MaryJo-github/StudyD/wiki/%5Bweek04%5D-View-State-Method)
 
-[[week05] UML]()
+[[week05] UML](https://github.com/MaryJo-github/StudyD/wiki/%5Bweek05%5D-UML)
 
-[[week06] SOLID]()
+[[week06] SOLID](https://github.com/MaryJo-github/StudyD/wiki/%5Bweek06%5D-SOLID)
